@@ -1,4 +1,4 @@
-![Readme Header](readme-header.png)
+![Readme Header](https://raw.githubusercontent.com/FabioRosado/FabioRosado/master/readme-header.png)
 # Hello I'm FabioRosado 👋
 
 ## I'm a flight attendant by day and self-taught developer by night.
