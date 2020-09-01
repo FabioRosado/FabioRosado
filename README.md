@@ -6,7 +6,7 @@
 Building projects live on  [Twitch](https://twitch.tv/theflyingdev) |  contributing to open source | Talking with devs about their journey on [Landing In Tech](https://landingintech.com) podcast.
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FabioRosado_?color=1DA1F2&style=flat)](https://twitter.com/_jacobtomlinson) ![Twitch Status](https://img.shields.io/twitch/status/theflyingdev?color=6441A5&style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FabioRosado_?color=1DA1F2&style=flat)](https://twitter.com/FabioRosado_) [![Twitch Status](https://img.shields.io/twitch/status/theflyingdev?color=6441A5&style=flat)](https://twitch.tv/theflyingdev)
 
 ## &#x270d; Blog & Writing
 
