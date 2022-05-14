@@ -1,7 +1,7 @@
 ![Readme Header](https://raw.githubusercontent.com/FabioRosado/FabioRosado/master/readme-header.png)
 # Hello I'm FabioRosado 👋
 
-## I'm a flight attendant by day and self-taught developer by night.
+## Former flight attendant turned software engineer
 
 Building projects live on  [Twitch](https://twitch.tv/theflyingdev) |  contributing to open source | Talking with devs about their journey on [Landing In Tech](https://landingintech.com) podcast.
 
